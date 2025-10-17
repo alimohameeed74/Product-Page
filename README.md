@@ -1,40 +1,35 @@
-# Product-Page
+## Product Landing Page
 
-## Overview
+A modern, fully responsive **Product Landing Page** built using **HTML** and **CSS**.
+The website showcases a single product with an elegant, user-focused design and clean layout.
 
-This project is part of Assignment 3, where the task is to build a complete **Product Landing Page** for a specific item.  
-The goal is to design a webpage that presents the product details in a professional and visually appealing way to encourage users to make a purchase.
+## Features
 
----
+- **Hero Section:** Highlights the main product visually.
+- **Specifications Section:** Compares product features with competitors.
+- **Customer Reviews Section:** Displays user ratings and testimonials.
+- **Related Products Section:** Suggests similar items to increase engagement.
+- **Sticky Navbar:** Allows smooth navigation across sections.
+- **Responsive Design:** Optimized for all screen sizes.
 
-## Project Requirements
+## Technologies Used
 
-The landing page should include the following main sections:
+- **HTML5** – For semantic page structure
+- **CSS3** – For styling, layout, and responsiveness
 
-1. **Hero Section**  
-   The main visual area of the page that immediately grabs attention and introduces the product.
+## What I Learned
 
-2. **Specifications Section**  
-   A comparison between the featured product and competing ones, clearly showing why this product is the better choice.
+Through this project, I strengthened my front-end development skills, especially in:
 
-3. **Reviews Section**  
-   A section displaying customer reviews, feedback, and ratings from people who have already purchased the product.
+- Responsive web design
+- Layout alignment and positioning
+- Clean UI design using modern CSS techniques
 
-4. **Related Products Section**  
-   Displays similar or related products to promote additional sales (cross-selling).
+## Project Highlights
 
-5. **Navbar**  
-   A navigation bar with links to smoothly scroll between the different sections of the page.
-
-6. **Footer**  
-   The bottom section of the page containing basic information and useful links.
-
----
-
-## Development Notes
-
-- The project was built using **HTML** and **CSS** only.
-- The layout and styling were designed manually without using any frontend frameworks.
-- The code structure follows a clean and organized component-based layout for easy editing and scalability.
+- Designed and implemented a clean, modern UI following a professional layout.
+- Focused on improving responsiveness across different devices.
+- Enhanced the customer review section with interactive visuals and ratings.
+- Ensured accessibility and readability for all users.
 
 ---
